@@ -35,7 +35,7 @@
         <joda-time.version>2.9.9</joda-time.version>
         <joda-time-jsptags.version>1.1.1</joda-time-jsptags.version>
         <!--http-->
-        <httpclient.version>4.5.3</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <httpmime.version>4.5</httpmime.version>
     </properties>
 
